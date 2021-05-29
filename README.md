@@ -3,7 +3,7 @@
 
 ### Hi there, I'm [Jackyetpan!](https://github.com/imjackky) 👋
 
-- 🔭 I’m currently working on My Study
+- 🔭 I’m currently working on computer networking
 
 - 🌱 I’m currently learning Python
 
